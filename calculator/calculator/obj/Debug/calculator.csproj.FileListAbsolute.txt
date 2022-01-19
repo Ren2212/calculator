@@ -1,0 +1,7 @@
+C:\Users\rusho\OneDrive\Desktop\c#\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\rusho\OneDrive\Desktop\c#\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\rusho\OneDrive\Desktop\c#\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\rusho\OneDrive\Desktop\c#\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\rusho\OneDrive\Desktop\c#\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\rusho\OneDrive\Desktop\c#\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\rusho\OneDrive\Desktop\c#\calculator\calculator\obj\Debug\calculator.pdb
